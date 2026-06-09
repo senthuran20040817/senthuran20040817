@@ -52,7 +52,7 @@ $ ls interests/
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img   src="https://giphy.com/explore/digital-technology"/>
+<img src="[https://giphy.com/explore/digital-technology](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2FzbmtxaDdmMTk4ZGx1ODNmdnh5cngxeXFud3FwMXFiZTNneXMwZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U4FkC2VqpeNRHjTDQ5/source.gif)"/>
 
 <br/>
 
