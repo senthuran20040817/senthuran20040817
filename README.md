@@ -16,36 +16,53 @@
 
 ## `whoami`
 
+<div align="center">
+
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-<img src="https://img.shields.io/badge/Name-Perinpam%20Senthuran-blueviolet?style=flat-square&logo=person&logoColor=white"/>
+```
+perinpam@senthuran ~ whoami
+```
 
-<img src="https://img.shields.io/badge/Institute-iCET%20Sri%20Lanka-5b21b6?style=flat-square&logo=graduation-cap&logoColor=white"/>
+```
+$ cat identity.json
 
-<img src="https://img.shields.io/badge/Role-Software%20Engineering%20Student-7c3aed?style=flat-square&logo=code&logoColor=white"/>
+  name       "Perinpam Senthuran"
+  role       "Software Eng. Student"
+  institute  "iCET Sri Lanka"
+  origin     "🇱🇰 Sri Lanka"
+  school     "D.S. Senanayaka, Colombo 7"
 
-<img src="https://img.shields.io/badge/Country-Sri%20Lanka%20🇱🇰-0f172a?style=flat-square"/>
+$ cat achievements.log
 
-<img src="https://img.shields.io/badge/School-D.S.%20Senanayaka%20College%2C%20Colombo%207-4c1d95?style=flat-square"/>
+  ✔  GCE O/L — 9A Holder
+  ✔  GCE A/L — 2BC Holder
 
-<img src="https://img.shields.io/badge/GCE%20O%2FL-9A%20Holder%20🏅-6d28d9?style=flat-square"/>
+$ ls interests/
 
-<img src="https://img.shields.io/badge/GCE%20A%2FL-2BC%20Holder%20🎓-7c3aed?style=flat-square"/>
+  AI   Backend   Clean-Code   Databases
 
-<br/><br/>
+> identity loaded successfully _
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perinpam%20Senthuran-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perinpam-senthuran-a784023ab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perinpam-senthuran-a784023ab)
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding holographic gif" style="border-radius: 12px;"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Holographic coding gif"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/status-open%20to%20collaborate-3fb950?style=flat-square&logo=github&logoColor=white"/>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -103,6 +120,9 @@ class Senthuran:
 
 <div align="center">
 
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=senthuran20040817&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub Stats"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthuran20040817&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages"/>
 
 </div>
 
