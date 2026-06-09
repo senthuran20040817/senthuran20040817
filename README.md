@@ -103,9 +103,6 @@ class Senthuran:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=senthuran20040817&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub Stats"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthuran20040817&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Top Languages"/>
 
 </div>
 
