@@ -52,7 +52,7 @@ $ ls interests/
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExankxMzRnd3RtMHd5bmp3OGVheGV2eHBoMTF5dXQ4bnFlZDN2OGRqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U4FkC2VqpeNRHjTDQ5/giphy.gif" width="220" alt="Holographic coding gif"/>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="220" alt="Developer coding animation"/>
 
 <br/>
 
